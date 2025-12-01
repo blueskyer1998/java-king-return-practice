@@ -3,7 +3,7 @@
 
 ## 章節目錄
 - [CH3 JAVA 語言基礎](./src/main/java/com/blueskyer1998/ch03)
-
+- [CH4 JAVA 程式基本運算](./src/main/java/com/blueskyer1998/ch04)
 
 ## 筆記
 ### IntelliJ：關閉自動補全提示
