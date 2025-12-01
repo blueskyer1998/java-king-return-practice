@@ -2,7 +2,8 @@
 此專案使用Java最強入門邁向頂尖高手之路：王者歸來(第二版)」書本作為教材，紀錄自己學習 Java 的基本觀念與語法。
 
 ## 章節目錄
-- [CH03_JAVA 語言基礎](./src/main/java/com/blueskyer1998/ch03)
+- [CH3 JAVA 語言基礎](./src/main/java/com/blueskyer1998/Ch03)
+
 
 ## 筆記
 ### IntelliJ：關閉自動補全提示
