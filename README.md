@@ -1,11 +1,9 @@
 # JAVA 學習筆記
 此專案使用Java最強入門邁向頂尖高手之路：王者歸來(第二版)」書本作為教材，紀錄自己學習 Java 的基本觀念與語法。
 
-____
 ## 章節目錄
-- [CH03 JAVA 語言基礎](./src/main/java/com/blueskyer1998/ch03)
+- [CH03_JAVA 語言基礎](./src/main/java/com/blueskyer1998/ch03)
 
-___
 ## 筆記
 ### IntelliJ：關閉自動補全提示
 在學習基礎語法時，如果不希望 IntelliJ 一直自動跳提示，可以到:<br>
