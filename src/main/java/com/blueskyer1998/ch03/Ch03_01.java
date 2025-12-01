@@ -1,4 +1,4 @@
-package com.blueskyer1998.Ch03;
+package com.blueskyer1998.ch03;
 
 /**
  * 每小時時薪是 120 元，一天工作 8 小時，一年工作 300 天；

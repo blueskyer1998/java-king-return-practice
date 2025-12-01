@@ -1,4 +1,4 @@
-package com.blueskyer1998.Ch03;
+package com.blueskyer1998.ch03;
 
 /**
  * 用有意義的變數名稱，計算一年可以存多少錢

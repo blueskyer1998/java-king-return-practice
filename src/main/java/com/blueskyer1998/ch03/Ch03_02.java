@@ -1,4 +1,4 @@
-package com.blueskyer1998.Ch03;
+package com.blueskyer1998.ch03;
 
 /**
  * 如果每個月花費是 9000 元，用變數 y 儲存一年所花的錢，用變數 s 儲存一年可以儲存多少錢

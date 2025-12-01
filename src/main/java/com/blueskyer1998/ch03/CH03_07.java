@@ -1,4 +1,4 @@
-package com.blueskyer1998.Ch03;
+package com.blueskyer1998.ch03;
 
 /**
  * 使用中文命名變數

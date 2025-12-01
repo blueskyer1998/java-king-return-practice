@@ -1,4 +1,4 @@
-package com.blueskyer1998.Ch03;
+package com.blueskyer1998.ch03;
 
 /**
  * 設定變數時也可以直接設定變數的內容
