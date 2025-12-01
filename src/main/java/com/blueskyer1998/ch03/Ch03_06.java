@@ -3,7 +3,7 @@ package com.blueskyer1998.ch03;
 /**
  * 為程式碼加上註解
  */
-public class CH03_06 {
+public class Ch03_06 {
     public static void main (String[] Args) {
         int hourSalary = 120; // 每小時薪資
         int monthlyFee = 9000; // 每月支出
