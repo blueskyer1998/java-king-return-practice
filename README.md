@@ -3,7 +3,7 @@
 
 ## 章節目錄
 - [CH3 JAVA 語言基礎](./src/main/java/com/blueskyer1998/ch03)
-- CH4 JAVA 程式基本運算
+- [CH4 JAVA 程式基本運算](./src/main/java/com/blueskyer1998/ch04)
 - CH5 程式流程控制
 - CH6 迴圈控制
 - CH7 陣列
